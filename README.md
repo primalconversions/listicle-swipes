@@ -1,6 +1,6 @@
 # Listicle Swipe File
 
-Full-page clones of 17 listicles for reference when writing new listicles for clients.
+Full-page clones of 25 listicles for reference when writing new listicles for clients.
 
 **Live site:** https://primalconversions.github.io/listicle-swipes/
 
@@ -21,7 +21,7 @@ python3 clone.py
 python3 build_readme.py
 ```
 
-## Live swipes (17)
+## Live swipes (25)
 
 Click **view** to open the rendered page, **raw** to download the file, or **source** to open the original URL.
 
@@ -42,3 +42,11 @@ Click **view** to open the rendered page, **raw** to download the file, or **sou
 - `veloma-store__pages-listicle_1_ww` (46.1 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/veloma-store__pages-listicle_1_ww/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/veloma-store__pages-listicle_1_ww/index.html) · [source](https://veloma.store/pages/listicle_1_ww)
 - `themelaninreport__3-mistakes-listicle` (19.4 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/themelaninreport__3-mistakes-listicle/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/themelaninreport__3-mistakes-listicle/index.html) · [source](https://themelaninreport.org/3-mistakes-listicle)
 - `kittyspout__pages-6reasonslisticle-2-2l-compare` (35.6 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/kittyspout__pages-6reasonslisticle-2-2l-compare/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/kittyspout__pages-6reasonslisticle-2-2l-compare/index.html) · [source](https://www.kittyspout.com/pages/6reasonslisticle-2-2l-compare)
+- `earthlinenaturals__pages-listicle` (12.2 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/earthlinenaturals__pages-listicle/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/earthlinenaturals__pages-listicle/index.html) · [source](https://earthlinenaturals.com/pages/listicle)
+- `biovitic__pages-listicle` (6.1 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/biovitic__pages-listicle/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/biovitic__pages-listicle/index.html) · [source](https://biovitic.com/pages/listicle)
+- `soovera__pages-listicle-in-1` (17.1 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/soovera__pages-listicle-in-1/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/soovera__pages-listicle-in-1/index.html) · [source](https://soovera.com/pages/listicle-in-1)
+- `yolibrand__pages-listicle-3-yoli` (5.2 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/yolibrand__pages-listicle-3-yoli/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/yolibrand__pages-listicle-3-yoli/index.html) · [source](https://yolibrand.com/pages/listicle-3-yoli)
+- `tryeloura__pages-listicle-5r` (5.4 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/tryeloura__pages-listicle-5r/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/tryeloura__pages-listicle-5r/index.html) · [source](https://tryeloura.com/pages/listicle-5r)
+- `shop-everdries__pages-8-reasons-nighttime-leaks` (21.7 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/shop-everdries__pages-8-reasons-nighttime-leaks/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/shop-everdries__pages-8-reasons-nighttime-leaks/index.html) · [source](https://shop.everdries.com/pages/8-reasons-nighttime-leaks)
+- `anacondaperformance__pages-knee-recovery-listicle6` (7.9 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/anacondaperformance__pages-knee-recovery-listicle6/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/anacondaperformance__pages-knee-recovery-listicle6/index.html) · [source](https://anacondaperformance.com/pages/knee-recovery-listicle6)
+- `homereachlifestyle__pages-tl360-new-listicle-shortform-women` (13.5 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/homereachlifestyle__pages-tl360-new-listicle-shortform-women/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/homereachlifestyle__pages-tl360-new-listicle-shortform-women/index.html) · [source](https://homereachlifestyle.com/pages/tl360-new-listicle-shortform-women)
