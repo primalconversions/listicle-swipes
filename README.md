@@ -1,6 +1,6 @@
 # Listicle Swipe File
 
-Full-page clones of 26 listicles for reference when writing new listicles for clients.
+Full-page clones of 27 listicles for reference when writing new listicles for clients.
 
 **Live site:** https://primalconversions.github.io/listicle-swipes/
 
@@ -21,7 +21,7 @@ python3 clone.py
 python3 build_readme.py
 ```
 
-## Live swipes (26)
+## Live swipes (27)
 
 Click **view** to open the rendered page, **raw** to download the file, or **source** to open the original URL.
 
@@ -51,3 +51,4 @@ Click **view** to open the rendered page, **raw** to download the file, or **sou
 - `anacondaperformance__pages-knee-recovery-listicle6` (7.9 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/anacondaperformance__pages-knee-recovery-listicle6/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/anacondaperformance__pages-knee-recovery-listicle6/index.html) · [source](https://anacondaperformance.com/pages/knee-recovery-listicle6)
 - `homereachlifestyle__pages-tl360-new-listicle-shortform-women` (13.5 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/homereachlifestyle__pages-tl360-new-listicle-shortform-women/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/homereachlifestyle__pages-tl360-new-listicle-shortform-women/index.html) · [source](https://homereachlifestyle.com/pages/tl360-new-listicle-shortform-women)
 - `gruns__pages-first-order-gut-health` (39.3 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/gruns__pages-first-order-gut-health/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/gruns__pages-first-order-gut-health/index.html) · [source](https://gruns.co/pages/first-order-gut-health)
+- `thebbco__pages-ps-radiancy-listicle-dryness-sns-v9` (36.9 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/thebbco__pages-ps-radiancy-listicle-dryness-sns-v9/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/thebbco__pages-ps-radiancy-listicle-dryness-sns-v9/index.html) · [source](https://thebbco.com/pages/ps-radiancy-listicle-dryness-sns-v9#problem)
