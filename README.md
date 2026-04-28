@@ -1,6 +1,6 @@
 # Listicle Swipe File
 
-Full-page clones of 28 listicles for reference when writing new listicles for clients.
+Full-page clones of 29 listicles for reference when writing new listicles for clients.
 
 **Live site:** https://primalconversions.github.io/listicle-swipes/
 
@@ -21,7 +21,7 @@ python3 clone.py
 python3 build_readme.py
 ```
 
-## Live swipes (28)
+## Live swipes (29)
 
 Click **view** to open the rendered page, **raw** to download the file, or **source** to open the original URL.
 
@@ -53,3 +53,4 @@ Click **view** to open the rendered page, **raw** to download the file, or **sou
 - `gruns__pages-first-order-gut-health` (39.3 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/gruns__pages-first-order-gut-health/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/gruns__pages-first-order-gut-health/index.html) · [source](https://gruns.co/pages/first-order-gut-health)
 - `thebbco__pages-ps-radiancy-listicle-dryness-sns-v9` (36.9 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/thebbco__pages-ps-radiancy-listicle-dryness-sns-v9/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/thebbco__pages-ps-radiancy-listicle-dryness-sns-v9/index.html) · [source](https://thebbco.com/pages/ps-radiancy-listicle-dryness-sns-v9#problem)
 - `healthandwellness-manus-space__home` (4.6 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/healthandwellness-manus-space__home/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/healthandwellness-manus-space__home/index.html) · [source](https://healthandwellness.manus.space/)
+- `dailyhairinsights__im-lis6-v1` (9.2 MB) — [view](https://primalconversions.github.io/listicle-swipes/swipes/dailyhairinsights__im-lis6-v1/index.html) · [raw](https://raw.githubusercontent.com/primalconversions/listicle-swipes/main/swipes/dailyhairinsights__im-lis6-v1/index.html) · [source](https://www.dailyhairinsights.com/im-lis6-v1)
